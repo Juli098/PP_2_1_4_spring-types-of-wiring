@@ -16,3 +16,4 @@ public class Rabbit4 {
         return ", в зайце утка " +duck5.toString()+ "";
     }
 }
+
